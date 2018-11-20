@@ -8,16 +8,16 @@ require (
 	github.com/gobuffalo/buffalo-docker v1.0.5
 	github.com/gobuffalo/buffalo-plugins v1.6.10
 	github.com/gobuffalo/buffalo-pop v1.1.13
-	github.com/gobuffalo/envy v1.6.8
+	github.com/gobuffalo/envy v1.6.9
 	github.com/gobuffalo/events v1.1.7
 	github.com/gobuffalo/fizz v1.1.2 // indirect
-	github.com/gobuffalo/flect v0.0.0-20181109221320-179d36177b5b
-	github.com/gobuffalo/genny v0.0.0-20181111200257-599b33630ab4
+	github.com/gobuffalo/flect v0.0.0-20181114183036-47375f6d8328
+	github.com/gobuffalo/genny v0.0.0-20181114215459-0a4decd77f5d
 	github.com/gobuffalo/github_flavored_markdown v1.0.7
 	github.com/gobuffalo/httptest v1.0.4
 	github.com/gobuffalo/logger v0.0.0-20181109185836-3feeab578c17
 	github.com/gobuffalo/makr v1.1.5
-	github.com/gobuffalo/meta v0.0.0-20181109154556-f76929ccd5fa
+	github.com/gobuffalo/meta v0.0.0-20181116202903-8850e47774f5
 	github.com/gobuffalo/mw-basicauth v1.0.7
 	github.com/gobuffalo/mw-contenttype v0.0.0-20180802152300-74f5a47f4d56
 	github.com/gobuffalo/mw-csrf v0.0.0-20180802151833-446ff26e108b
@@ -25,8 +25,8 @@ require (
 	github.com/gobuffalo/mw-i18n v0.0.0-20181027200759-09e0c99be4d3
 	github.com/gobuffalo/mw-paramlogger v0.0.0-20181005191442-d6ee392ec72e
 	github.com/gobuffalo/mw-tokenauth v0.0.0-20181001105134-8545f626c189
-	github.com/gobuffalo/packd v0.0.0-20181111195323-b2e760a5f0ff
-	github.com/gobuffalo/packr v1.19.0
+	github.com/gobuffalo/packd v0.0.0-20181114190715-f25c5d2471d7
+	github.com/gobuffalo/packr v1.21.0
 	github.com/gobuffalo/plush v3.7.22+incompatible
 	github.com/gobuffalo/pop v4.9.0+incompatible
 	github.com/gobuffalo/tags v2.0.11+incompatible
@@ -53,6 +53,6 @@ require (
 	golang.org/x/crypto v0.0.0-20181106171534-e4dc69e5b2fd
 	golang.org/x/sync v0.0.0-20181108010431-42b317875d0f
 	golang.org/x/sys v0.0.0-20181107165924-66b7b1311ac8 // indirect
-	golang.org/x/tools v0.0.0-20181112162442-680468b7556f
+	golang.org/x/tools v0.0.0-20181114190951-94339b83286c
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc
 )

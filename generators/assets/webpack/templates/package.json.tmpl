@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "dev": "webpack --watch",
+    "build": "webpack -p --progress"
+  },
   "repository": "github.com/gobuffalo/buffalo",
   "dependencies": {
     {{ if eq .opts.Bootstrap 3 -}}
@@ -20,7 +24,6 @@
     "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
     "babel-loader": "^8.0.0-beta.6",
-
 
     "css-loader": "~1.0.0",
     "expose-loader": "~0.7.5",

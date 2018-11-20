@@ -3,10 +3,9 @@ package fix
 import (
 	"bytes"
 	"fmt"
+	"html/template"
 	"io/ioutil"
 	"os"
-
-	"html/template"
 
 	"github.com/gobuffalo/buffalo/generators/assets/webpack"
 	"github.com/gobuffalo/buffalo/generators/newapp"
